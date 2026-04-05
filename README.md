@@ -4,4 +4,5 @@ Deep Learning Architectures and Techniques (ETMMDL274)
 # Deep Learning (RNN/LSTM) 
 
 Name : Riju Kumar Saha
+
 Roll No. : 2501940018
